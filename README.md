@@ -2,15 +2,15 @@
 ### Mac computers
 
 - [Mac Studio M4 Max](https://support.apple.com/en-us/121552) with 64 GB RAM and 1TB SSD (16 Core CPU/40 Core GPU)
-- [MacBook Pro 2024 M4 14"](https://support.apple.com/en-us/121552) with 16 GB RAM and 1TB SSD
+- [MacBook Pro 2024 M5 14"](https://support.apple.com/en-us/125405) with 16 GB RAM and 1TB SSD
 - [Mac Mini 2018](https://support.apple.com/kb/SP782?locale=en_US) Core i5 8500, 16GB RAM, 512 GB SSD
 - [Mac mini 2011](https://support.apple.com/kb/sp632?locale=en_US) with AMD Radeon HD 6630M 16GB RAM, 500GB SSD
 - [Mac Pro 2013](https://support.apple.com/kb/sp697?locale=en_US) (trash can) 8 Core E5-1680 v2, 2xD700, 64 GB RAM, 1 TB SSD
 
 ### Windows computers
 
-- Primary build: Ryzen 9950x, RTX 4070 Ti Super 16GB, 64GB RAM, 10Gbit Ethernet [Detailed specs](https://be.pcpartpicker.com/list/vFMXrv)
-- Secondary build: Ryzen 7600x3d, RTX 5080, 32 GB RAM [Detailed specs](https://be.pcpartpicker.com/list/H39ngB)
+- Primary build: Ryzen 9950x, RTX 5080 16GB, 64GB RAM, 10Gbit Ethernet [Detailed specs](https://be.pcpartpicker.com/list/vFMXrv)
+- Secondary build: Ryzen 7600x3d, RTX 4070 Ti Super 16GB, 32 GB RAM [Detailed specs](https://be.pcpartpicker.com/list/H39ngB)
 - [Lenovo Slim 7 Pro X](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7-pro-x-14-inch-amd/len101l0011) laptop with Ryzen 6800HS, 120Hz 2k display, RTX 3050, 16 GB RAM, 1TB SSD
 
 ### Screens
